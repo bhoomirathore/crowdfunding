@@ -80,5 +80,9 @@ contract Crowdfunding {
             return 0;
         }
         return deadline - block.timestamp;
+    // 7️⃣ Get contribution amount of any contributor
+    function getContributionOf(address _user) public view returns (uint256) {
+        return contributions[_user];
+    
     }
 }
