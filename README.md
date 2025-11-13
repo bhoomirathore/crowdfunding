@@ -88,7 +88,7 @@ You are free to modify and use it for personal learning, experimentation, or aca
 ---
 
 ### 👩‍💻 Author
-**Bhoomi**  
+**Bhoomi Rathore**  
 _College Student | Aspiring Developer | Exploring Blockchain & Space Tech_ 🚀
 
 contract details:0x6825a0f0cFAF6FF3825621b59c2D0a752ad00966
