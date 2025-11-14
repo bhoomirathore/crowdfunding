@@ -53,9 +53,9 @@ The vision is to **remove intermediaries**, **enhance transparency**, and **guar
 | `constructor(uint256 _goalAmount, uint256 _durationInDays)` | Initializes the campaign goal and duration (in days). |
 | `contribute()` | Allows users to contribute Ether to the campaign before the deadline. |
 | `withdrawFunds()` | Lets the owner withdraw all funds once the goal is met and before refund eligibility. |
-| `getRefund()` | Enables contributors to get their money back if the goal is not reached by the deadline. |
+| `getRefund()` | Enable contributors to get their money back if the goal is not reached by the deadline. |
 | `getCampaignStatus()` | Returns the current status of the campaign as a readable message. |
-
+7⁷
 ---
 
 ## 🧠 Technologies Used
