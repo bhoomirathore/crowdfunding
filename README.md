@@ -91,16 +91,20 @@ npx hardhat run scripts/deploy.js --network sepolia
 # Verify on Etherscan
 npx hardhat verify --network sepolia CONTRACT_ADDRESS
 ```
+## 📜 License
+This project is licensed under the **MIT License**.  
+You are free to modify and use it for personal learning, experimentation, or academic purposes.
 
-## Environment Setup
+---
 
-Create `.env` file:
+### 👩‍💻 Author
+**Bhoomi Rathore**  
+_btech Student | Aspiring Developer | Exploring Blockchain & Space Tech_ 🚀
 
-```
-PRIVATE_KEY=your_private_key
-SEPOLIA_RPC_URL=your_alchemy_or_infura_url
-ETHERSCAN_API_KEY=your_etherscan_key
-```
+contract details:0x6825a0f0cFAF6FF3825621b59c2D0a752ad00966
+<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/048b5b18-b54c-488e-9d61-fda2b0db0c43"/>
+
+
 
 ## Testing
 
